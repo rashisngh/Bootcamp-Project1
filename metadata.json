@@ -1,0 +1,6 @@
+{
+  "name": "JSSATE Placement Intelligence Hub",
+  "description": "JSS Academy of Technical Education Noida Companies Research & Placement Analytics Portal. Your strategic edge for campus placements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
